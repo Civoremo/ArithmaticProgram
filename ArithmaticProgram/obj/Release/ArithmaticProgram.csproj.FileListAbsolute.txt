@@ -1,0 +1,13 @@
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\bin\Release\ArithmaticProgram.exe.config
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\bin\Release\ArithmaticProgram.exe.manifest
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\bin\Release\ArithmaticProgram.application
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\bin\Release\ArithmaticProgram.exe
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\bin\Release\ArithmaticProgram.pdb
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Release\ArithmaticProgram.csprojResolveAssemblyReference.cache
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Release\ArithmaticProgram.frmMain.resources
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Release\ArithmaticProgram.Properties.Resources.resources
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Release\ArithmaticProgram.csproj.GenerateResource.Cache
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Release\ArithmaticProgram.exe.manifest
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Release\ArithmaticProgram.application
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Release\ArithmaticProgram.exe
+C:\Users\NtD\Documents\Visual Studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Release\ArithmaticProgram.pdb
