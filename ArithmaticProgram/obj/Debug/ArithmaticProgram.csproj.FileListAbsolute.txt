@@ -1,0 +1,13 @@
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\bin\Debug\ArithmaticProgram.exe.config
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\bin\Debug\ArithmaticProgram.exe
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\bin\Debug\ArithmaticProgram.pdb
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Debug\ArithmaticProgram.frmMain.resources
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Debug\ArithmaticProgram.Properties.Resources.resources
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Debug\ArithmaticProgram.csproj.GenerateResource.Cache
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Debug\ArithmaticProgram.exe
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Debug\ArithmaticProgram.pdb
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\bin\Debug\ArithmaticProgram.exe.manifest
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\bin\Debug\ArithmaticProgram.application
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Debug\ArithmaticProgram.csprojResolveAssemblyReference.cache
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Debug\ArithmaticProgram.exe.manifest
+c:\users\ntd\documents\visual studio 2012\Projects\ArithmaticProgram\ArithmaticProgram\obj\Debug\ArithmaticProgram.application
